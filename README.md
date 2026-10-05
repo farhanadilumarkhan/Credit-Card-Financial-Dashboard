@@ -89,7 +89,6 @@ Data is ingested weekly (`cc_add.csv`, `cust_add.csv`) to simulate a real-world 
 ```
 ├── Credit_Card_Financial_Dashboard_SQL_Query.sql   # Database schema + data ingestion
 ├── Credit_Card_Dashboard.pbix                       # Power BI dashboard file
-├── screenshots/                                      # Dashboard preview images
 └── README.md
 ```
 
@@ -98,4 +97,4 @@ Data is ingested weekly (`cc_add.csv`, `cust_add.csv`) to simulate a real-world 
 ## 👤 Author
 
 **Farhan Adil**
-Data Analyst | AI Automation Enthusiast
+Data Scientist | AI Automation Engineer
