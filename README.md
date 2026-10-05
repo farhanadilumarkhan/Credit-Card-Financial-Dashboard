@@ -53,14 +53,13 @@ Data is ingested weekly (`cc_add.csv`, `cust_add.csv`) to simulate a real-world 
 - Quarterly revenue and transaction volume trend
 - Revenue breakdown by Card Category, Customer Job, Expense Type, Education, and Chip Usage method
 
+![Transaction Report](transaction_report.png)
+
 ### Page 2: Credit Card Customer Report
 - **KPIs:** Total Revenue (57M), Total Interest (8M), Customer Income (588M), Customer Satisfaction Score (3.19)
 - Weekly revenue trend (Male vs Female)
 - Revenue segmented by Age Group, Income Group, Education, Marital Status, and State
 
-*(Add dashboard screenshots here — drag and drop the PNG/PDF exports into this repo and reference them below)*
-
-![Transaction Report](transaction_report.png)
 ![Customer Report](customer_report.png)
 
 ---
