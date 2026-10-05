@@ -60,10 +60,8 @@ Data is ingested weekly (`cc_add.csv`, `cust_add.csv`) to simulate a real-world 
 
 *(Add dashboard screenshots here — drag and drop the PNG/PDF exports into this repo and reference them below)*
 
-```
 ![Transaction Report](transaction_report.png)
 ![Customer Report](customer_report.png)
-```
 
 ---
 
